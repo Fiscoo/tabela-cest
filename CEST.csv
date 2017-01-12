@@ -74,8 +74,8 @@ AUTOPEÇAS;58.0;01.058.00;8518.50.00;Aparelhos elétricos de amplificação de s
 AUTOPEÇAS;59.0;01.059.00;8519.81;Aparelhos de reprodução de som
 AUTOPEÇAS;60.0;01.060.00;8525.50.1;Aparelhos transmissores (emissores) de radiotelefonia ou radiotelegrafia (rádio receptor/transmissor)
 AUTOPEÇAS;60.0;01.060.00;8525.60.10;Aparelhos transmissores (emissores) de radiotelefonia ou radiotelegrafia (rádio receptor/transmissor)
-AUTOPEÇAS;61.0;01.061.00;8527.2;Aparelhos receptores de radiodifusão que só funcionam com fonte externa de energia, exceto os classificados na posição 8527.21.90
-AUTOPEÇAS;62.0;01.062.00;8527.21.90;Outros aparelhos receptores de radiodifusão que funcionem com fonte externa de energia, dos tipos utilizados exclusivamente em veículos automotores
+AUTOPEÇAS;61.0;01.061.00;8527.21.00;Aparelhos receptores de radiodifusão que só funcionem com fonte externa de energia combinados com um aparelho de gravação ou de reprodução de som, do tipo utilizado em veículos automóveis
+AUTOPEÇAS;62.0;01.062.00;8527.29.00;Outros aparelhos receptores de radiodifusão que só funcionem com fonte externa de energia, do tipo utilizado em veículos automóveis
 AUTOPEÇAS;62.1;01.062.01;8521.90.90;Outros aparelhos videofônicos de gravação ou de reprodução, mesmo incorporando um receptor de sinais videofônicos, dos tipos utilizados exclusivamente em veículos automotores
 AUTOPEÇAS;63.0;01.063.00;8529.10.90;Antenas
 AUTOPEÇAS;64.0;01.064.00;8534.00;Circuitos impressos
@@ -264,13 +264,14 @@ FERRAMENTAS;11.0;08.011.00;8206.00.00;Ferramentas de pelo menos duas das posiç�
 FERRAMENTAS;12.0;08.012.00;8207.40;Ferramentas de roscar interior ou exteriormente. de mandrilar ou de brochar. e de fresar
 FERRAMENTAS;12.0;08.012.00;8207.60;Ferramentas de roscar interior ou exteriormente. de mandrilar ou de brochar. e de fresar
 FERRAMENTAS;12.0;08.012.00;8207.70;Ferramentas de roscar interior ou exteriormente. de mandrilar ou de brochar. e de fresar
-FERRAMENTAS;13.0;08.013.00;8207;Outras ferramentas intercambiáveis para ferramentas manuais, mesmo mecânicas, ou para máquinas-ferramentas (por exemplo, de embutir, estampar, puncionar, furar, tornear, aparafusar), incluídas as fieiras de estiragem ou de extrusão, para metais, e as ferramentas de perfuração ou de sondagem, exceto forma ou gabarito de produtos em epoxy, exceto as classificadas no CEST 08.012.00
+FERRAMENTAS;13.0;08.013.00;8207;Outras ferramentas intercambiáveis para ferramentas manuais, mesmo mecânicas, ou para máquinas-ferramentas (por exemplo, de embutir, estampar, puncionar, furar, tornear, aparafusar), incluídas as fieiras de estiragem ou de extrusão, para metais, e as ferramentas de perfuração ou de sondagem, exceto forma ou gabarito de produtos em epoxy e as classificadas no CEST 08.012.00
 FERRAMENTAS;14.0;08.014.00;8208;Facas e lâminas cortantes, para máquinas ou para aparelhos mecânicos
 FERRAMENTAS;15.0;08.015.00;8209.00.11;Plaquetas ou pastilhas intercambiáveis
 FERRAMENTAS;16.0;08.016.00;8209.00;Outras plaquetas, varetas, pontas e objetos semelhantes para ferramentas, não montados, de ceramais ('cermets'), exceto as classificadas no CEST 08.015.00
 FERRAMENTAS;17.0;08.017.00;8211;Facas de lâmina cortante ou serrilhada, incluídas as podadeiras de lâmina móvel, e suas lâmicas, exceto as de uso doméstico
 FERRAMENTAS;18.0;08.018.00;8213;Tesouras e suas lâminas
-FERRAMENTAS;19.0;08.019.00;8467;Ferramentas pneumáticas, hidráulicas ou com motor (elétrico ou não elétrico) incorporado, de uso manual
+FERRAMENTAS;19.0;08.019.00;8467;Ferramentas pneumáticas, hidráulicas ou com motor (elétrico ou não elétrico) incorporado, de uso manual, exceto o descrito no CEST 08.019.01
+FERRAMENTAS;19.1;08.019.01;8467.81.00;Moto-serras portáteis de corrente, com motor incorporado, não elétrico, de uso agrícola
 FERRAMENTAS;20.0;08.020.00;9015;Instrumentos e aparelhos de geodésia, topografia, agrimensura, nivelamento, fotogrametria, hidrografia, oceanografia, hidrologia, meteorologia ou de geofísica, exceto bussolas. telêmetros
 FERRAMENTAS;21.0;08.021.00;9017.20.00;Instrumentos de desenho, de traçado ou de cálculo. metros, micrômetros, paquímetros, calibres e semelhantes. partes e acessórios
 FERRAMENTAS;21.0;08.021.00;9017.30;Instrumentos de desenho, de traçado ou de cálculo. metros, micrômetros, paquímetros, calibres e semelhantes. partes e acessórios
@@ -597,10 +598,10 @@ PRODUTOS ALIMENTÍCIOS;51.0;17.051.00;1905.20.90;Bolo de forma, inclusive de esp
 PRODUTOS ALIMENTÍCIOS;52.0;17.052.00;1905.20.10;Panetones
 PRODUTOS ALIMENTÍCIOS;53.0;17.053.00;1905.31.00;Biscoitos e bolachas derivados de farinha de trigo. (exceto dos tipos 'cream cracker', 'água e sal', 'maisena', 'maria' e outros de consumo popular que não sejam adicionados de cacau, nem recheados, cobertos ou amanteigados, independentemente de sua denominação comercial)
 PRODUTOS ALIMENTÍCIOS;53.1;17.053.01;1905.31.00;Biscoitos e bolachas derivados de farinha de trigo dos tipos “maisena” e “maria” e outros de consumo popular que não sejam adicionados de cacau, nem recheados, cobertos ou amanteigados, independentemente de sua denominação comercial. Exceto o CEST 17.053.02
-PRODUTOS ALIMENTÍCIOS;53.2;17.053.02;1905.31.00;Biscoitos e bolachas derivados de farinha de trigo dos tipos 'cream cracker' e 'água e sal'
+PRODUTOS ALIMENTÍCIOS;53.2;17.053.02;1905.31.00;Biscoitos e bolachas derivados de farinha de trigo dos tipos 'cream cracker' e 'água e sal' de consumo popular
 PRODUTOS ALIMENTÍCIOS;54.0;17.054.00;1905.31.00;Biscoitos e bolachas não derivados de farinha de trigo. (exceto dos tipos 'cream cracker', 'água e sal', 'maisena' e 'maria' e outros de consumo popular que não sejam adicionados de cacau, nem recheados, cobertos ou amanteigados, independentemente de sua denominação comercial)
 PRODUTOS ALIMENTÍCIOS;54.1;17.054.01;1905.31.00;Biscoitos e bolachas não derivados de farinha de trigo dos tipos “maisena” e “maria” e outros de consumo popular que não sejam adicionados de cacau, nem recheados, cobertos ou amanteigados, independentemente de sua denominação comercial. Exceto o CEST 17.054.02
-PRODUTOS ALIMENTÍCIOS;54.2;17.054.02;1905.31.00;Biscoitos e bolachas não derivados de farinha de trigo dos tipos 'cream cracker' e 'água e sal'
+PRODUTOS ALIMENTÍCIOS;54.2;17.054.02;1905.31.00;Biscoitos e bolachas não derivados de farinha de trigo dos tipos 'cream cracker' e 'água e sal' de consumo popular
 PRODUTOS ALIMENTÍCIOS;56.0;17.056.00;1905.90.20;Biscoitos e bolachas derivados de farinha de trigo dos tipos 'cream cracker' e 'água e sal'
 PRODUTOS ALIMENTÍCIOS;56.1;17.056.01;1905.90.20;Biscoitos e bolachas não derivados de farinha de trigo dos tipos 'cream cracker' e 'água e sal'
 PRODUTOS ALIMENTÍCIOS;56.2;17.056.02;1905.90.20;Outras bolachas, exceto casquinhas para sorvete e os biscoitos e bolachas relacionados nos CEST 17.056.00 e 17.056.01
@@ -721,7 +722,7 @@ PRODUTOS ALIMENTÍCIOS;105.0;17.105.00;1702;Outros açúcares em embalagens de c
 PRODUTOS ALIMENTÍCIOS;105.1;17.105.01;1702;Outros açúcares, em embalagens de conteúdo superior a 2 kg e inferior ou igual a 5 kg
 PRODUTOS ALIMENTÍCIOS;105.2;17.105.02;1702;Outros açúcares, em embalagens de conteúdo superior a 5 kg
 PRODUTOS ALIMENTÍCIOS;106.0;17.106.00;2008.19.00;Milho para pipoca (micro-ondas)
-PRODUTOS ALIMENTÍCIOS;107.0;17.107.00;2101.1;Extratos, essências e concentrados de café e preparações à base destes extratos, essências ou concentrados ou à base de café, em embalagens de conteúdo inferior ou igual a 500 g
+PRODUTOS ALIMENTÍCIOS;107.0;17.107.00;2101.1;Extratos, essências e concentrados de café e preparações à base destes extratos, essências ou concentrados ou à base de café, em embalagens de conteúdo inferior ou igual a 500 g, exceto as preparações indicadas no CEST 17.109.00
 PRODUTOS ALIMENTÍCIOS;108.0;17.108.00;2101.20;Extratos, essências e concentrados de chá ou de mate e preparações à base destes extratos, essências ou concentrados ou à base de chá ou de mate, em embalagens de conteúdo inferior ou igual a 500 g, exceto as bebidas prontas à base de mate ou chá
 PRODUTOS ALIMENTÍCIOS;109.0;17.109.00;1901.90.90;Preparações em pó para cappuccino e similares, em embalagens de conteúdo inferior ou igual a 500 g
 PRODUTOS ALIMENTÍCIOS;109.0;17.109.00;2101.11.90;Preparações em pó para cappuccino e similares, em embalagens de conteúdo inferior ou igual a 500 g
