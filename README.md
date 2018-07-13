@@ -4,6 +4,7 @@
 
 ## Histórico de atualizações
 
+* [CONVÊNIO ICMS 52, DE 7 DE ABRIL DE 2017](https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV052_17)
 * [Convênio ICMS 92, de 20 de agosto de 2015](https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/cv092_15)
 * Convênio ICMS 146/2015
 * Convênio ICMS 146/2015 Retificação
